@@ -1,4 +1,4 @@
-<!-- Bootstrap CSS -->
+c<!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 ## Portfolio
@@ -58,51 +58,30 @@
 </style>
 <!-- Your Work Experience Section -->
 <div align="Center" style="margin: 10px" class="hoverEffect"> 
-  <img src="images/ezofis.jpg?raw=true" alt="Ezofis" width="124" onclick="openModal('ezofisModal')">
-  <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('ucModal')">
+  <img src="images/ellucian.png?raw=true" alt="Ezofis" width="124" onclick="openModal('ellucianModal')">
+  <img src="images/hpe.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('hpeModal')">
 </div>
 
-<!-- Ezofis Modal -->
-<div id="ezofisModal" class="modal">
+<!-- Ellucian Modal -->
+<div id="ellucianModal" class="modal">
   <div class="modal-content">
-    <span class="close" onclick="closeModal('ezofisModal')">&times;</span>
-    <h3>Ezofis</h3>
-    <p>Work experience at Ezofis...</p>
-    <p><ul><li>Boosted Ticketing system performance by 30% through query and table structure optimizations, including subquery elimination and pre-join filtering.</li>Streamlined a unified view across 15 databases, implementing advanced indexing and partitioning strategies to enhance multi-database search efficiency.<li>Led end-to-end development of a Random Forest classifier for client demo, encompassing data preprocessing, feature engineering, model building, and deployment using Streamlit and FastAPI.</li>Engineered secure import/export functionality with dynamic table definition generation, encryption, and decryption processes, streamlining data transfer across systems.<li>Conducted POC for SingleStore implementation, integrating Azure pipelines and evaluating ML model performance across platforms.</li><li>Developed queries to identify modified columns in history tables, retrieving changes as JSON objects, and conducted table-level optimizations.</li></ul></p>
+    <span class="close" onclick="closeModal('ellucianModal')">&times;</span>
+    <h3>Ellucian</h3>
+    <p>Work experience at Ellucian...</p>
+    <p><ul><li>Designed and implemented RESTful APIs to streamline service communication, reducing data retrieval times by 20% through optimized database queries and proactive performance tuning, ensuring efficient, high-speed service integration.</li>Led the migration of existing on-premise solutions to a SaaS platform, transforming legacy applications into flexible, cloud-based services that optimized accessibility, lowered maintenance requirements, and supported ongoing scaling needs.<li>Collaborated with the quality assurance team by assisting with software testing, investigating and documenting bugs, and developing test cases to support test-driven development, ensuring high software quality and performance standards.</li>Collaborated with the quality assurance team by assisting with software testing, investigating and documenting bugs, and developing test cases to support test-driven development, ensuring high software quality and performance standards.<li>Demonstrated expertise in the entire software development lifecycle, encompassing requirement analysis, data pipeline design, coding, various testing phases, and deployment, which led to fewer post-deployment defects and smoother project transitions.</li></ul></p>
   </div>
 </div>
 
-<!-- Ultimate Coders Modal -->
-<div id="ucModal" class="modal">
+<!-- HPE Modal -->
+<div id="hpeModal" class="modal">
   <div class="modal-content">
-    <span class="close" onclick="closeModal('ucModal')">&times;</span>
-    <h3>Ultimate Coders</h3>
-    <p>Work experience at Ultimate Coders...</p>
-    <p>Instructed students on various programming languages and domains, including - Python, Java, Web Design and Development (HTML5, CSS, JavaScript). Took on management responsibilities to ensure effective course delivery and curriculum alignment.</p>
+    <span class="close" onclick="closeModal('hpeModal')">&times;</span>
+    <h3>Hewlett Packard Enterprise</h3>
+    <p>Work experience at Hewlett Packard Enterprise...</p>
+   <p><ul><li>Acted as a Subject Matter Expert (SME) and led Incident Management calls while managing change management for three applications. Maintained data accuracy and prevented future discrepancies by updating and validating incident tickets using ServiceNow.</li><li>Reproduced issues and analyzed application logs and system logs by integrating system components into Splunk, AppDynamics to identify root causes of issues and provide solutions to customers.</li><li>Identified and documented potential software/hardware defects, authorized and reviewed technical documentation, and corrected non-conformances with processes and documentation. Collaborated with development teams to identify, troubleshoot, and resolve software bugs and issues. Created new/updated Knowledge Base documentation as required, fostered open team communication, and shared knowledge openly.</li><li>Conducted user acceptance testing, resulting in on-time and successful enterprise implementations for up to 1 million users.</li><li>Developed and maintained scripts using Ansible to automate repetitive tasks, improving efficiency and reducing downtime.</li></ul></p>
   </div>
 </div>
 
-<!-- TCS Modal -->
-<div id="tcsModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal('tcsModal')">&times;</span>
-    <h3>TCS</h3>
-    <p>Work experience at TCS...</p>
-    <p><ul><li>Gained proficiency in Data Analytics by employing complex SQL queries and procedures. Performed query tuning for optimal application response.</li><li>Developed Bash shell scripts for extracting metadata, conducting business validations, and triggering PL/SQL stored procedures to populate database tables.</li><li>Did the bidirectional data transfer between Teradata, Snowflake, and Oracle, leveraging AWS as the intermediary. Established and maintained disaster recovery pipelines from one Teradata system to another using Kafka, ensuring data synchronization and replication.</li><li>Successfully migrated from on-premises infrastructure to AWS+Snowflake Cloud Data Platform. Utilized Apache Airflow for seamless connection to Snowflake and implemented Snowflake's data processing layer with Python.</li><li>Demonstrated expertise in the entire software development lifecycle, encompassing requirement analysis, data pipeline design, coding, various testing phases, and deployment.</li></ul></p>
-  </div>
-</div>
-
-<!-- MAQ Modal -->
-<div id="maqModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal('maqModal')">&times;</span>
-    <h3>MAQ Software</h3>
-    <p>Work experience at MAQ...</p>
-    <p>Worked on projects
-based on Business Intelligence, which involved technologies like T-SQL, SSIS, Multidimensional
-Tabular Model(SSAS) and Power BI for reporting.</p>
-  </div>
-</div>
 ---
 ### Awards and Recognition
 
