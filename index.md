@@ -58,8 +58,8 @@
 </style>
 <!-- Your Work Experience Section -->
 <div align="Center" style="margin: 10px" class="hoverEffect"> 
-  <img src="images/ellucian.png?raw=true" alt="Ezofis" width="124" onclick="openModal('ellucianModal')">
-  <img src="images/hpe.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('hpeModal')">
+  <img src="images/ellucian.png?raw=true" alt="Ezofis" width="324" onclick="openModal('ellucianModal')">
+  <img src="images/hpe.png?raw=true" alt="Ultimate Coders" width="324" onclick="openModal('hpeModal')">
 </div>
 
 <!-- Ellucian Modal -->
