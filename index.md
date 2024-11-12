@@ -109,6 +109,7 @@
       <div class="carousel-caption">
       </div>   
     </div>
+  </div>
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
