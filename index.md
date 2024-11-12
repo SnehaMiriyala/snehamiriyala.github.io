@@ -98,73 +98,17 @@
   <!-- Indicators -->
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-    <li data-target="#demo" data-slide-to="3"></li>
-    <li data-target="#demo" data-slide-to="4"></li>
-    <li data-target="#demo" data-slide-to="5"></li>
-    <li data-target="#demo" data-slide-to="6"></li>
-    <li data-target="#demo" data-slide-to="7"></li>
+  
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Music-Genre-Classification">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/8bf3fe55-f21f-4830-9508-1e6add815292" alt="image"  width="1000" height="300">
+      <a href="https://github.com/snehamiriyala/tic-tac-toe-game">
+        <img src="https://github.com/user-attachments/assets/f562c217-4fde-4803-b109-1495deaa59e7" alt="image1"  width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
     </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Stock-Market-Analysis">
-        <img src="https://github.com/snehalathatuniki/Stock-Market-Analysis/assets/43737913/6e30f41f-3fd7-41af-9e2e-9fec0ad8a41c" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-    </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
-        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-    </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Toonifyme">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/3b116097-3b88-4e3e-8ac0-0da47c589e7f" alt="Image 3" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Linkedin_Analysis">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/0f6114b4-cf2d-4582-911f-e47e23b2037e" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Comparing_Cosmetics_by_Ingredients">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/7ba54007-ff4a-417b-b0a6-b006c9e68531" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Image-Compression">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/b4e8a146-0e30-4d1c-a396-26df4740a4f5" alt="Image 3" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
-     <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/AgroSelect/">
-        <img src="https://github.com/snehalathatuniki/AgroSelect/assets/43737913/2087f190-b7e5-4b43-977b-db2bb7e93c78" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
-  </div>
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
@@ -190,7 +134,7 @@ function closeModal(modalId) {
 
 ---
 
-### [My Resume](/pdf/SnehalathaTuniki_Resume.pdf)
+### [My Resume](/pdf/SnehaMiriyala_Resume.pdf)
 
 
 
