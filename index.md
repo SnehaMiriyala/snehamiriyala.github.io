@@ -85,11 +85,11 @@
 ---
 ### Awards and Recognition
 
-##### Performance Excellence Award
-<img src="images/Special_Achievement_Award.jpg?raw=true"/>
+##### Star Recognition Award
+<img src="images/star_recognition.png?raw=true"/>
 
 ##### Appreciation
-<img src="images/Puneet_Appreciation.jpg?raw=true"/>
+<img src="images/appreciation.png?raw=true"/>
 
 ---
 ##### Recent Works
