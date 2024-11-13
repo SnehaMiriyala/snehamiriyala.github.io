@@ -109,6 +109,13 @@
       <div class="carousel-caption">
       </div>   
     </div>
+       <div class="carousel-item active hoverEffect">
+      <a href="https://github.com/snehamiriyala/react-investment-calculator">
+        <img src="https://github.com/user-attachments/assets/15e25561-f69a-4d6e-9a93-aca3cbb8e4e9" alt="image2"  width="1000" height="300">
+      </a>
+      <div class="carousel-caption">
+      </div>   
+    </div>
   </div>
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
